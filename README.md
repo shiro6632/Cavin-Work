@@ -1,7 +1,6 @@
 # My Portfolio
 
 Welcome to my GitHub portfolio! Here are some of my projects:
-[Cavin Lee Resume (5).pdf](https://github.com/user-attachments/files/20208504/Cavin.Lee.Resume.5.pdf)
 
 ## Projects
 
